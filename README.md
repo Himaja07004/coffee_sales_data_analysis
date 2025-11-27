@@ -56,8 +56,5 @@ Feature importance rankings
 
 Prediction accuracy plots
 
-Files
-Coffe_sales.csv: Raw coffee sales transaction data with 4,000+ records.
 
-coffee_sales_data_anal
 
