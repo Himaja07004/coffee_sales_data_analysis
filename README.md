@@ -1,4 +1,5 @@
 Coffee Sales Data Analysis and Prediction
+
 This project analyzes historical coffee sales transaction data from a coffee shop and performs data analysis, feature engineering, and prediction of sales prices using a Random Forest regression model.
 
 Features
@@ -59,3 +60,4 @@ Files
 Coffe_sales.csv: Raw coffee sales transaction data with 4,000+ records.
 
 coffee_sales_data_anal
+
